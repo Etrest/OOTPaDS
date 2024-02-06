@@ -1,0 +1,15 @@
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\bin\Debug\net7.0\krBrichak.exe
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\bin\Debug\net7.0\krBrichak.deps.json
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\bin\Debug\net7.0\krBrichak.runtimeconfig.json
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\bin\Debug\net7.0\krBrichak.dll
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\bin\Debug\net7.0\krBrichak.pdb
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.csproj.AssemblyReference.cache
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.AssemblyInfoInputs.cache
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.AssemblyInfo.cs
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.csproj.CoreCompileInputs.cache
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.dll
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\refint\krBrichak.dll
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.pdb
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\krBrichak.genruntimeconfig.cache
+D:\Учеба\5 семестр\1. Объектно-ориентированные технологии программирования и стандарты проектирования\krBrichak\krBrichak\obj\Debug\net7.0\ref\krBrichak.dll
